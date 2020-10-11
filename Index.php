@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <head>
 <?php
   echo "helloworld";
